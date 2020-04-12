@@ -1,0 +1,501 @@
+Geschlecht;Familienstand;Alter;Kinder;Bildungsstand;Beruf;Jahresgehalt;Immobilienbesitz;Versicherungstarif
+maennlich;geschieden;53;0;Master;angestellt;95320;Eigentumswohnung;Tarif B
+weiblich;ledig;35;1;Bachelor;arbeitend;30050;keiner;Tarif C
+maennlich;verwitwet;34;1;Master;angestellt;76290;keiner;Tarif B
+weiblich;geschieden;65;1;Realschule;kein;9300;keiner;ablehnen
+maennlich;ledig;8;0;Keine;kein;0;keiner;ablehnen
+weiblich;geschieden;50;0;Bachelor;arbeitend;27000;keiner;Tarif C
+maennlich;verheiratet;22;0;Abitur;arbeitend;26650;keiner;Tarif B
+maennlich;verheiratet;29;2;Lehre;kein;8200;keiner;ablehnen
+maennlich;verheiratet;57;0;Bachelor;angestellt;77905;Einfamilienhaus;Tarif B
+maennlich;geschieden;40;2;Bachelor;angestellt;86000;keiner;Tarif B
+maennlich;geschieden;96;1;Master;selbständig;68900;keiner;Tarif C
+weiblich;geschieden;32;0;Abitur;kein;9800;keiner;ablehnen
+weiblich;ledig;21;0;Bachelor;arbeitend;29390;keiner;Tarif B
+maennlich;geschieden;47;1;Lehre;angestellt;49555;Eigentumswohnung;Tarif B
+maennlich;geschieden;36;4;Bachelor;selbständig;29000;keiner;Tarif C
+maennlich;ledig;63;0;Bachelor;angestellt;79810;Eigentumswohnung;Tarif B
+weiblich;verwitwet;34;0;Bachelor;angestellt;74720;Einfamilienhaus;Tarif A
+maennlich;ledig;11;0;Keine;kein;0;Einfamilienhaus;ablehnen
+maennlich;geschieden;26;2;Bachelor;selbständig;94500;Einfamilienhaus;Tarif B
+maennlich;verheiratet;30;1;Master;angestellt;83200;Eigentumswohnung;Tarif B
+maennlich;geschieden;31;3;Master;kein;8900;keiner;ablehnen
+maennlich;verheiratet;35;1;Master;angestellt;83525;Eigentumswohnung;Tarif B
+maennlich;verwitwet;35;1;Realschule;angestellt;64425;Eigentumswohnung;Tarif B
+maennlich;ledig;3;0;Keine;kein;0;keiner;ablehnen
+weiblich;geschieden;62;0;Lehre;arbeitend;29860;keiner;Tarif C
+maennlich;verheiratet;34;3;Master;kein;8800;keiner;ablehnen
+maennlich;ledig;12;0;Keine;kein;0;keiner;ablehnen
+weiblich;verheiratet;27;2;Bachelor;selbständig;56200;keiner;Tarif C
+maennlich;geschieden;41;2;Abitur;angestellt;84510;Eigentumswohnung;Tarif B
+maennlich;verwitwet;39;0;Master;arbeitend;25035;Mehrfamilienhaus;Tarif B
+maennlich;verheiratet;41;1;Bachelor;angestellt;106105;Einfamilienhaus;Tarif A
+maennlich;ledig;17;0;Keine;kein;0;keiner;ablehnen
+weiblich;verwitwet;41;2;Lehre;angestellt;73565;Eigentumswohnung;Tarif B
+weiblich;geschieden;70;0;Lehre;arbeitend;26450;keiner;Tarif C
+weiblich;verheiratet;22;1;Bachelor;angestellt;63690;keiner;Tarif B
+maennlich;verwitwet;31;1;Lehre;angestellt;48470;keiner;Tarif B
+maennlich;ledig;6;0;Keine;kein;0;keiner;ablehnen
+weiblich;verwitwet;49;0;Realschule;arbeitend;25830;keiner;Tarif C
+maennlich;ledig;13;1;Keine;kein;0;keiner;ablehnen
+weiblich;verheiratet;62;0;Lehre;kein;9900;keiner;ablehnen
+maennlich;geschieden;57;0;Bachelor;angestellt;71665;keiner;Tarif B
+maennlich;verwitwet;48;5;Bachelor;verbeamtet;121000;Mehrfamilienhaus;Tarif B
+weiblich;verwitwet;42;7;Hauptschule;kein;9900;keiner;ablehnen
+weiblich;verheiratet;62;1;Lehre;arbeitend;34600;keiner;Tarif C
+weiblich;verheiratet;39;1;Hauptschule;selbständig;55700;keiner;Tarif B
+maennlich;verwitwet;31;5;Bachelor;angestellt;71925;Eigentumswohnung;Tarif C
+maennlich;geschieden;63;0;Bachelor;arbeitend;29525;Eigentumswohnung;Tarif B
+weiblich;verheiratet;30;2;Lehre;kein;9400;keiner;ablehnen
+maennlich;verheiratet;53;1;Bachelor;angestellt;73215;Einfamilienhaus;Tarif B
+weiblich;ledig;57;0;Bachelor;arbeitend;17895;keiner;Tarif C
+weiblich;verwitwet;33;0;Bachelor;angestellt;53370;Eigentumswohnung;Tarif B
+maennlich;geschieden;53;0;Lehre;kein;8900;keiner;ablehnen
+maennlich;ledig;9;0;Keine;kein;0;keiner;ablehnen
+maennlich;verwitwet;34;5;Lehre;angestellt;79970;Eigentumswohnung;Tarif C
+maennlich;verheiratet;47;4;Bachelor;kein;8800;keiner;ablehnen
+maennlich;geschieden;51;0;Bachelor;angestellt;61810;Einfamilienhaus;Tarif B
+maennlich;geschieden;42;2;Lehre;kein;9600;keiner;ablehnen
+weiblich;verheiratet;39;4;Lehre;angestellt;56800;Einfamilienhaus;Tarif C
+weiblich;verheiratet;56;0;Bachelor;angestellt;45820;Einfamilienhaus;Tarif B
+maennlich;geschieden;47;1;Lehre;selbständig;52400;keiner;Tarif C
+maennlich;verwitwet;75;0;Bachelor;im Ruhestand;38300;Eigentumswohnung;Tarif C
+weiblich;verheiratet;25;1;Lehre;arbeitend;22200;keiner;Tarif C
+weiblich;ledig;29;1;Lehre;selbständig;61700;keiner;Tarif B
+weiblich;ledig;11;0;Keine;kein;0;keiner;ablehnen
+maennlich;ledig;25;0;Bachelor;angestellt;50500;Eigentumswohnung;Tarif B
+weiblich;verheiratet;40;1;Abitur;kein;9200;keiner;ablehnen
+weiblich;ledig;9;0;Keine;kein;0;keiner;ablehnen
+weiblich;geschieden;43;3;Bachelor;kein;9800;keiner;ablehnen
+maennlich;geschieden;30;0;Bachelor;angestellt;73700;keiner;Tarif B
+weiblich;ledig;14;0;Keine;kein;0;keiner;ablehnen
+maennlich;verheiratet;28;0;Master;arbeitend;31300;keiner;Tarif B
+maennlich;verwitwet;80;0;Bachelor;selbständig;73700;keiner;Tarif C
+weiblich;geschieden;62;0;Abitur;kein;9100;keiner;ablehnen
+maennlich;verheiratet;62;0;Abitur;arbeitend;27240;keiner;Tarif C
+weiblich;geschieden;52;0;Lehre;selbständig;14400;keiner;Tarif C
+maennlich;verwitwet;49;0;Bachelor;verbeamtet;72595;keiner;Tarif B
+weiblich;geschieden;43;0;Lehre;angestellt;106400;Einfamilienhaus;Tarif A
+maennlich;geschieden;57;0;Hauptschule;arbeitend;33215;Eigentumswohnung;Tarif B
+maennlich;geschieden;65;0;Lehre;kein;9600;keiner;ablehnen
+weiblich;verheiratet;49;0;Bachelor;angestellt;73240;Einfamilienhaus;Tarif B
+weiblich;verheiratet;66;0;Master;arbeitend;31710;keiner;Tarif C
+weiblich;verheiratet;33;1;Realschule;arbeitend;29405;keiner;Tarif C
+weiblich;geschieden;34;1;Keine;kein;9100;keiner;ablehnen
+weiblich;verheiratet;44;0;Bachelor;angestellt;73660;Eigentumswohnung;Tarif B
+weiblich;verheiratet;47;0;Bachelor;selbständig;102600;Einfamilienhaus;Tarif A
+weiblich;ledig;28;0;Lehre;kein;8700;keiner;ablehnen
+maennlich;verheiratet;46;2;Lehre;selbständig;103200;Villa;Tarif A
+weiblich;ledig;2;0;Keine;kein;0;keiner;ablehnen
+weiblich;ledig;25;1;Keine;angestellt;72200;keiner;Tarif B
+weiblich;ledig;6;0;Keine;kein;0;keiner;ablehnen
+weiblich;verheiratet;23;1;Keine;kein;9400;keiner;ablehnen
+maennlich;verheiratet;48;1;Lehre;arbeitend;24820;keiner;Tarif C
+weiblich;ledig;23;0;Hauptschule;kein;9000;keiner;ablehnen
+weiblich;ledig;37;1;Master;selbständig;92700;Einfamilienhaus;Tarif A
+weiblich;geschieden;55;0;Realschule;kein;9000;keiner;ablehnen
+weiblich;ledig;13;0;Keine;kein;0;keiner;ablehnen
+weiblich;geschieden;63;0;Realschule;arbeitend;23880;keiner;Tarif C
+maennlich;verwitwet;47;2;Bachelor;verbeamtet;58065;Eigentumswohnung;Tarif B
+weiblich;verheiratet;34;0;Master;angestellt;82210;keiner;Tarif B
+maennlich;geschieden;44;0;Lehre;angestellt;57200;keiner;Tarif B
+weiblich;ledig;80;1;Lehre;im Ruhestand;41000;keiner;Tarif C
+maennlich;verheiratet;31;1;Promotion;angestellt;106675;Villa;Tarif A
+maennlich;verheiratet;38;0;Lehre;kein;9000;keiner;ablehnen
+weiblich;ledig;29;0;Master;angestellt;88105;Mehrfamilienhaus;Tarif A
+maennlich;geschieden;32;0;Bachelor;selbständig;64800;Eigentumswohnung;Tarif B
+weiblich;ledig;50;0;Abitur;arbeitend;28050;keiner;Tarif C
+maennlich;ledig;19;0;Abitur;kein;9300;Einfamilienhaus;ablehnen
+weiblich;geschieden;60;0;Master;angestellt;65700;Eigentumswohnung;Tarif B
+weiblich;ledig;12;0;Keine;kein;0;keiner;ablehnen
+weiblich;ledig;15;0;Keine;kein;0;keiner;ablehnen
+weiblich;verheiratet;63;0;Bachelor;angestellt;45205;keiner;Tarif B
+maennlich;verheiratet;59;0;Hauptschule;angestellt;53725;keiner;Tarif B
+weiblich;geschieden;36;2;Abitur;arbeitend;30540;keiner;Tarif C
+weiblich;geschieden;61;0;Lehre;kein;9500;keiner;ablehnen
+maennlich;ledig;16;0;Keine;kein;0;keiner;ablehnen
+maennlich;verheiratet;34;1;Bachelor;verbeamtet;80370;keiner;Tarif B
+maennlich;ledig;20;0;Bachelor;selbständig;103700;keiner;Tarif A
+maennlich;verheiratet;39;2;Bachelor;angestellt;96335;Mehrfamilienhaus;Tarif A
+weiblich;ledig;68;0;Hauptschule;im Ruhestand;24900;keiner;Tarif C
+weiblich;geschieden;51;0;Bachelor;selbständig;42000;Eigentumswohnung;Tarif B
+weiblich;verheiratet;33;3;Realschule;kein;9800;keiner;ablehnen
+maennlich;geschieden;71;0;Lehre;im Ruhestand;22300;keiner;Tarif C
+weiblich;verheiratet;61;1;Realschule;arbeitend;25560;keiner;Tarif C
+maennlich;verheiratet;40;1;Lehre;arbeitend;30100;keiner;Tarif C
+weiblich;ledig;19;0;Abitur;kein;9000;keiner;ablehnen
+maennlich;ledig;27;1;Bachelor;angestellt;71125;Einfamilienhaus;Tarif B
+weiblich;verwitwet;41;0;Lehre;selbständig;93500;Eigentumswohnung;Tarif B
+maennlich;ledig;24;0;Bachelor;angestellt;66320;keiner;Tarif B
+maennlich;geschieden;31;2;Master;selbständig;64900;keiner;Tarif B
+weiblich;ledig;16;0;Keine;kein;0;keiner;ablehnen
+weiblich;verheiratet;30;1;Hauptschule;arbeitend;20050;keiner;Tarif C
+weiblich;ledig;36;0;Bachelor;angestellt;65940;Mehrfamilienhaus;Tarif A
+maennlich;geschieden;47;2;Bachelor;angestellt;87005;keiner;Tarif B
+weiblich;ledig;63;0;Lehre;angestellt;50065;Eigentumswohnung;Tarif B
+maennlich;verheiratet;61;0;Bachelor;angestellt;61300;Einfamilienhaus;Tarif B
+weiblich;verwitwet;48;0;Lehre;kein;9600;keiner;ablehnen
+weiblich;ledig;26;0;Lehre;arbeitend;24590;keiner;Tarif B
+weiblich;verheiratet;62;0;Bachelor;angestellt;59790;keiner;Tarif B
+maennlich;ledig;59;0;Lehre;angestellt;122360;Einfamilienhaus;Tarif A
+weiblich;verheiratet;20;1;Bachelor;angestellt;55800;keiner;Tarif B
+weiblich;geschieden;68;1;Bachelor;im Ruhestand;30100;keiner;Tarif C
+maennlich;verheiratet;26;0;Master;angestellt;63940;Einfamilienhaus;Tarif A
+maennlich;ledig;55;0;Bachelor;angestellt;79525;Eigentumswohnung;Tarif B
+maennlich;verheiratet;62;0;Lehre;arbeitend;31470;keiner;Tarif C
+maennlich;verheiratet;33;0;Master;kein;8200;keiner;ablehnen
+weiblich;geschieden;27;3;Lehre;angestellt;91555;Mehrfamilienhaus;Tarif B
+weiblich;verheiratet;48;0;Master;angestellt;74120;Mehrfamilienhaus;Tarif A
+weiblich;verheiratet;27;2;Realschule;verbeamtet;50795;keiner;Tarif B
+maennlich;verheiratet;57;0;Lehre;kein;8500;keiner;ablehnen
+maennlich;ledig;28;0;Master;angestellt;75420;Eigentumswohnung;Tarif B
+maennlich;geschieden;48;0;Bachelor;kein;8500;keiner;ablehnen
+weiblich;verheiratet;25;0;Hauptschule;verbeamtet;82025;keiner;Tarif B
+maennlich;verheiratet;35;2;Lehre;kein;9000;keiner;ablehnen
+maennlich;verheiratet;26;0;Bachelor;kein;9000;keiner;ablehnen
+maennlich;verheiratet;57;0;Bachelor;angestellt;75035;keiner;Tarif B
+maennlich;ledig;10;0;Keine;kein;0;keiner;ablehnen
+weiblich;verheiratet;46;1;Lehre;kein;9100;keiner;ablehnen
+weiblich;ledig;22;0;Bachelor;angestellt;73780;keiner;Tarif B
+weiblich;ledig;27;0;Lehre;angestellt;54000;Einfamilienhaus;Tarif B
+maennlich;ledig;38;1;Bachelor;angestellt;86550;Eigentumswohnung;Tarif B
+maennlich;verheiratet;43;2;Lehre;verbeamtet;75125;Einfamilienhaus;Tarif B
+maennlich;ledig;55;0;Lehre;kein;9000;keiner;ablehnen
+weiblich;ledig;86;0;Lehre;selbständig;103800;Einfamilienhaus;Tarif B
+weiblich;ledig;14;0;Keine;kein;0;keiner;ablehnen
+weiblich;verheiratet;51;0;Bachelor;angestellt;80435;keiner;Tarif B
+maennlich;geschieden;44;2;Realschule;angestellt;31780;keiner;Tarif C
+maennlich;verwitwet;45;1;Master;angestellt;21550;keiner;Tarif C
+maennlich;verheiratet;25;0;Bachelor;selbständig;68500;keiner;Tarif B
+maennlich;verwitwet;90;1;Lehre;arbeitend;33000;keiner;Tarif C
+maennlich;geschieden;55;1;Lehre;arbeitend;35300;keiner;Tarif C
+weiblich;geschieden;70;0;Bachelor;selbständig;73700;Eigentumswohnung;Tarif B
+weiblich;verheiratet;49;0;Bachelor;angestellt;89480;Einfamilienhaus;Tarif A
+maennlich;verheiratet;26;0;Master;kein;8800;keiner;ablehnen
+maennlich;ledig;12;0;Keine;kein;0;keiner;ablehnen
+weiblich;ledig;30;0;Bachelor;verbeamtet;95450;Eigentumswohnung;Tarif B
+maennlich;verheiratet;44;1;Lehre;selbständig;98300;Mehrfamilienhaus;Tarif A
+weiblich;verheiratet;65;0;Lehre;kein;8600;keiner;ablehnen
+weiblich;verheiratet;48;0;Abitur;arbeitend;25860;keiner;Tarif C
+weiblich;verheiratet;39;1;Lehre;arbeitend;31410;keiner;Tarif C
+maennlich;ledig;53;0;Bachelor;verbeamtet;51545;keiner;Tarif B
+maennlich;verheiratet;48;0;Master;angestellt;105420;Villa;Tarif A
+weiblich;verheiratet;58;0;Master;kein;8800;keiner;ablehnen
+weiblich;geschieden;61;0;Bachelor;selbständig;70600;Einfamilienhaus;Tarif B
+weiblich;ledig;11;0;Keine;kein;0;keiner;ablehnen
+maennlich;verheiratet;35;3;Bachelor;selbständig;34900;keiner;Tarif C
+maennlich;verwitwet;31;1;Bachelor;angestellt;81065;keiner;Tarif B
+maennlich;geschieden;59;1;Lehre;kein;9400;keiner;ablehnen
+maennlich;ledig;62;1;Realschule;selbständig;41000;Eigentumswohnung;Tarif B
+maennlich;ledig;73;0;Bachelor;im Ruhestand;31600;Eigentumswohnung;Tarif C
+weiblich;geschieden;69;0;Abitur;angestellt;75350;Eigentumswohnung;Tarif B
+maennlich;ledig;17;0;Keine;kein;0;keiner;ablehnen
+weiblich;verheiratet;47;0;Realschule;angestellt;106465;Villa;Tarif A
+maennlich;verwitwet;50;1;Lehre;arbeitend;25950;Eigentumswohnung;Tarif C
+maennlich;verwitwet;58;0;Lehre;arbeitend;31030;Einfamilienhaus;Tarif B
+weiblich;ledig;50;0;Realschule;angestellt;65900;keiner;Tarif B
+maennlich;verheiratet;35;2;Lehre;arbeitend;11350;keiner;Tarif C
+maennlich;verwitwet;60;0;Lehre;kein;8300;keiner;ablehnen
+weiblich;ledig;49;0;Bachelor;verbeamtet;90125;Mehrfamilienhaus;Tarif B
+maennlich;verheiratet;46;7;Lehre;arbeitend;29610;Eigentumswohnung;Tarif B
+weiblich;ledig;57;0;Realschule;kein;8400;keiner;ablehnen
+maennlich;verheiratet;43;2;Master;angestellt;75525;keiner;Tarif C
+maennlich;verheiratet;51;0;Bachelor;angestellt;93885;Eigentumswohnung;Tarif B
+weiblich;verwitwet;71;0;Abitur;im Ruhestand;23300;keiner;Tarif C
+weiblich;geschieden;51;0;Bachelor;selbständig;65400;keiner;Tarif B
+weiblich;verheiratet;29;2;Lehre;angestellt;93330;keiner;Tarif B
+maennlich;verheiratet;32;1;Realschule;arbeitend;29980;Eigentumswohnung;Tarif B
+weiblich;ledig;24;0;Bachelor;angestellt;36180;Eigentumswohnung;Tarif B
+weiblich;verheiratet;51;1;Master;angestellt;117030;Einfamilienhaus;Tarif A
+weiblich;verheiratet;28;2;Abitur;kein;8400;keiner;ablehnen
+maennlich;ledig;19;0;Realschule;kein;9200;keiner;ablehnen
+maennlich;verheiratet;44;1;Bachelor;kein;9300;keiner;ablehnen
+weiblich;ledig;32;0;Master;angestellt;57320;Einfamilienhaus;Tarif B
+weiblich;geschieden;50;0;Bachelor;angestellt;85150;Mehrfamilienhaus;Tarif A
+weiblich;geschieden;59;0;Lehre;im Ruhestand;34800;keiner;Tarif C
+weiblich;verheiratet;21;0;Abitur;arbeitend;12815;keiner;Tarif C
+maennlich;verheiratet;32;0;Bachelor;angestellt;55000;keiner;Tarif B
+maennlich;ledig;5;0;Keine;kein;0;keiner;ablehnen
+maennlich;verwitwet;30;0;Bachelor;verbeamtet;85800;Einfamilienhaus;Tarif B
+weiblich;verheiratet;60;0;Lehre;arbeitend;31300;keiner;Tarif C
+weiblich;verheiratet;48;0;Lehre;selbständig;64400;keiner;Tarif B
+maennlich;verwitwet;47;1;Hauptschule;kein;8600;keiner;ablehnen
+weiblich;ledig;29;0;Master;kein;9600;keiner;ablehnen
+weiblich;verheiratet;19;1;Keine;kein;9000;keiner;ablehnen
+weiblich;ledig;34;0;Master;angestellt;109320;Villa;Tarif A
+maennlich;ledig;20;0;Bachelor;selbständig;54900;keiner;Tarif B
+maennlich;verwitwet;68;0;Lehre;im Ruhestand;27200;keiner;Tarif C
+maennlich;ledig;13;0;Keine;kein;0;keiner;ablehnen
+weiblich;verwitwet;33;2;Lehre;arbeitend;26875;keiner;Tarif C
+maennlich;verheiratet;21;0;Abitur;kein;9300;keiner;ablehnen
+maennlich;geschieden;47;2;Lehre;selbständig;59300;Einfamilienhaus;Tarif B
+maennlich;ledig;16;0;Realschule;kein;0;keiner;ablehnen
+maennlich;verheiratet;64;0;Master;angestellt;90740;Eigentumswohnung;Tarif B
+maennlich;verheiratet;47;3;Realschule;arbeitend;28225;keiner;Tarif C
+maennlich;ledig;34;0;Promotion;verbeamtet;60110;Mehrfamilienhaus;Tarif B
+maennlich;verheiratet;58;0;Lehre;angestellt;53950;Mehrfamilienhaus;Tarif B
+weiblich;ledig;61;0;Bachelor;im Ruhestand;46400;keiner;Tarif B
+weiblich;ledig;17;0;Keine;kein;0;Einfamilienhaus;ablehnen
+weiblich;ledig;59;0;Lehre;arbeitend;33705;keiner;Tarif C
+weiblich;geschieden;66;0;Lehre;im Ruhestand;46500;Eigentumswohnung;Tarif B
+maennlich;verheiratet;34;0;Bachelor;angestellt;72780;keiner;Tarif B
+maennlich;geschieden;82;0;Bachelor;arbeitend;34380;keiner;Tarif C
+weiblich;verheiratet;59;0;Master;angestellt;58310;keiner;Tarif B
+weiblich;geschieden;37;2;Abitur;kein;9600;keiner;ablehnen
+weiblich;ledig;47;0;Bachelor;verbeamtet;95015;keiner;Tarif B
+weiblich;verwitwet;49;0;Lehre;kein;8400;keiner;ablehnen
+weiblich;verheiratet;22;1;Master;verbeamtet;38970;keiner;Tarif B
+weiblich;verheiratet;30;1;Hauptschule;angestellt;86700;Einfamilienhaus;Tarif A
+weiblich;geschieden;43;2;Realschule;kein;8900;keiner;ablehnen
+weiblich;ledig;38;0;Realschule;selbständig;69600;Einfamilienhaus;Tarif A
+weiblich;ledig;9;0;Keine;kein;0;keiner;ablehnen
+maennlich;verheiratet;55;0;Bachelor;angestellt;60600;keiner;Tarif B
+weiblich;verheiratet;20;1;Master;angestellt;92800;keiner;Tarif B
+weiblich;ledig;25;1;Lehre;angestellt;70350;Eigentumswohnung;Tarif B
+weiblich;verheiratet;33;4;Abitur;angestellt;76970;keiner;Tarif C
+maennlich;verheiratet;46;0;Lehre;arbeitend;25690;keiner;Tarif C
+weiblich;verheiratet;37;1;Master;selbständig;66400;keiner;Tarif B
+maennlich;ledig;9;0;Keine;kein;0;Einfamilienhaus;ablehnen
+maennlich;geschieden;42;0;Lehre;angestellt;102980;Eigentumswohnung;Tarif A
+maennlich;verheiratet;32;0;Keine;angestellt;51220;keiner;Tarif B
+weiblich;verheiratet;53;0;Bachelor;arbeitend;23980;keiner;Tarif C
+weiblich;verheiratet;18;2;Realschule;kein;0;Einfamilienhaus;ablehnen
+weiblich;geschieden;45;1;Lehre;arbeitend;29925;keiner;Tarif C
+weiblich;verheiratet;36;0;Master;selbständig;75100;keiner;Tarif B
+weiblich;verheiratet;54;1;Abitur;kein;8600;keiner;ablehnen
+maennlich;ledig;21;0;Abitur;kein;9400;keiner;ablehnen
+maennlich;ledig;12;0;Keine;kein;0;keiner;ablehnen
+maennlich;verwitwet;30;3;Bachelor;verbeamtet;108200;Eigentumswohnung;Tarif B
+weiblich;verheiratet;53;0;Lehre;kein;9800;keiner;ablehnen
+weiblich;ledig;28;0;Master;angestellt;89140;Einfamilienhaus;Tarif A
+maennlich;verheiratet;26;1;Master;verbeamtet;58190;keiner;Tarif B
+maennlich;geschieden;40;3;Lehre;kein;9500;keiner;ablehnen
+weiblich;verheiratet;44;0;Bachelor;selbständig;61000;keiner;Tarif B
+maennlich;ledig;12;1;Keine;kein;0;keiner;ablehnen
+maennlich;verheiratet;68;0;Bachelor;arbeitend;29700;keiner;Tarif C
+weiblich;ledig;15;0;Keine;kein;0;keiner;ablehnen
+weiblich;geschieden;44;1;Hauptschule;arbeitend;28220;Eigentumswohnung;Tarif C
+maennlich;geschieden;63;0;Bachelor;angestellt;34185;keiner;Tarif C
+weiblich;geschieden;30;0;Bachelor;angestellt;90650;Einfamilienhaus;Tarif A
+weiblich;ledig;52;0;Lehre;arbeitend;34800;keiner;Tarif C
+maennlich;ledig;17;0;Hauptschule;arbeitend;0;keiner;ablehnen
+maennlich;verheiratet;45;4;Lehre;angestellt;92500;Mehrfamilienhaus;Tarif B
+weiblich;verheiratet;38;0;Bachelor;angestellt;50450;keiner;Tarif B
+weiblich;verheiratet;34;1;Abitur;selbständig;70200;keiner;Tarif B
+maennlich;ledig;29;0;Bachelor;angestellt;120910;Eigentumswohnung;Tarif A
+weiblich;geschieden;32;2;Hauptschule;verbeamtet;81780;Eigentumswohnung;Tarif B
+maennlich;geschieden;63;0;Lehre;arbeitend;30140;keiner;Tarif C
+maennlich;geschieden;39;3;Bachelor;angestellt;87970;keiner;Tarif B
+weiblich;geschieden;56;0;Bachelor;verbeamtet;90720;Einfamilienhaus;Tarif B
+maennlich;ledig;55;0;Bachelor;verbeamtet;88350;Eigentumswohnung;Tarif B
+weiblich;ledig;16;0;Keine;kein;0;keiner;ablehnen
+weiblich;verwitwet;35;0;Lehre;kein;8800;keiner;ablehnen
+maennlich;ledig;8;0;Keine;kein;0;keiner;ablehnen
+weiblich;verheiratet;54;0;Lehre;kein;9000;keiner;ablehnen
+maennlich;verheiratet;57;0;Bachelor;angestellt;102805;Einfamilienhaus;Tarif A
+maennlich;ledig;48;0;Promotion;verbeamtet;49820;Mehrfamilienhaus;Tarif B
+maennlich;ledig;7;0;Keine;kein;0;keiner;ablehnen
+maennlich;ledig;31;0;Bachelor;angestellt;60775;Einfamilienhaus;Tarif A
+maennlich;ledig;13;0;Keine;kein;0;keiner;ablehnen
+maennlich;ledig;13;0;Keine;kein;0;keiner;ablehnen
+weiblich;verheiratet;21;0;Bachelor;selbständig;105500;keiner;Tarif A
+weiblich;ledig;9;0;Keine;kein;0;keiner;ablehnen
+maennlich;verwitwet;77;0;Lehre;selbständig;36800;Mehrfamilienhaus;Tarif B
+maennlich;ledig;22;0;Lehre;selbständig;68600;keiner;Tarif B
+weiblich;verwitwet;66;0;Bachelor;selbständig;45800;keiner;Tarif C
+weiblich;ledig;26;0;Master;selbständig;52400;keiner;Tarif B
+maennlich;verheiratet;56;0;Bachelor;angestellt;60980;Eigentumswohnung;Tarif B
+weiblich;verheiratet;53;0;Lehre;selbständig;69200;keiner;Tarif B
+weiblich;verheiratet;47;0;Bachelor;angestellt;52425;keiner;Tarif B
+maennlich;verheiratet;67;0;Lehre;selbständig;40800;Einfamilienhaus;Tarif B
+weiblich;verheiratet;55;0;Bachelor;verbeamtet;72075;Einfamilienhaus;Tarif B
+weiblich;ledig;58;0;Abitur;arbeitend;32520;keiner;Tarif C
+weiblich;verheiratet;20;0;Keine;selbständig;29300;keiner;Tarif B
+weiblich;ledig;9;0;Keine;kein;0;keiner;ablehnen
+maennlich;verheiratet;46;2;Lehre;arbeitend;29380;keiner;Tarif C
+maennlich;verheiratet;60;0;Lehre;arbeitend;27100;keiner;Tarif C
+weiblich;verwitwet;55;1;Bachelor;angestellt;92250;Einfamilienhaus;Tarif B
+weiblich;geschieden;52;0;Lehre;kein;9500;keiner;ablehnen
+weiblich;verheiratet;68;0;Abitur;angestellt;72520;keiner;Tarif B
+weiblich;geschieden;38;1;Lehre;angestellt;99640;keiner;Tarif B
+maennlich;verheiratet;30;3;Promotion;verbeamtet;89500;keiner;Tarif B
+maennlich;verwitwet;40;7;Lehre;arbeitend;27700;Mehrfamilienhaus;Tarif B
+weiblich;ledig;47;1;Bachelor;angestellt;67045;Einfamilienhaus;Tarif B
+maennlich;verheiratet;57;1;Bachelor;verbeamtet;83430;Mehrfamilienhaus;Tarif B
+weiblich;verheiratet;41;3;Abitur;verbeamtet;77885;Eigentumswohnung;Tarif B
+weiblich;verheiratet;23;0;Bachelor;angestellt;60990;Eigentumswohnung;Tarif B
+weiblich;geschieden;68;1;Abitur;selbständig;73800;Einfamilienhaus;Tarif B
+weiblich;verwitwet;62;0;Bachelor;angestellt;104630;Villa;Tarif A
+weiblich;verheiratet;23;1;Lehre;verbeamtet;89680;Mehrfamilienhaus;Tarif B
+maennlich;verheiratet;28;2;Master;angestellt;43000;Einfamilienhaus;Tarif B
+weiblich;geschieden;75;1;Hauptschule;im Ruhestand;33900;keiner;Tarif C
+weiblich;verwitwet;59;0;Bachelor;verbeamtet;66480;Eigentumswohnung;Tarif B
+maennlich;geschieden;35;3;Lehre;selbständig;89700;Einfamilienhaus;Tarif B
+weiblich;ledig;24;1;Bachelor;angestellt;44940;Eigentumswohnung;Tarif B
+maennlich;verheiratet;48;1;Bachelor;angestellt;85980;Einfamilienhaus;Tarif B
+maennlich;geschieden;32;6;Bachelor;selbständig;55100;Eigentumswohnung;Tarif C
+maennlich;verheiratet;30;0;Lehre;selbständig;69000;keiner;Tarif B
+maennlich;ledig;24;1;Promotion;angestellt;75700;Eigentumswohnung;Tarif B
+maennlich;verwitwet;55;0;Bachelor;arbeitend;33425;keiner;Tarif C
+weiblich;verheiratet;30;1;Keine;arbeitend;27250;keiner;Tarif C
+weiblich;verheiratet;44;0;Lehre;selbständig;27700;keiner;Tarif C
+weiblich;verheiratet;46;0;Bachelor;verbeamtet;82570;Eigentumswohnung;Tarif B
+weiblich;verheiratet;44;2;Lehre;verbeamtet;73560;Eigentumswohnung;Tarif B
+maennlich;ledig;25;0;Lehre;angestellt;86950;keiner;Tarif B
+weiblich;verheiratet;29;2;Lehre;angestellt;61670;Eigentumswohnung;Tarif B
+weiblich;ledig;14;0;Keine;kein;0;keiner;ablehnen
+weiblich;verheiratet;32;5;Realschule;kein;8100;keiner;ablehnen
+weiblich;ledig;19;0;Hauptschule;kein;9600;keiner;ablehnen
+weiblich;ledig;26;0;Master;selbständig;81900;Eigentumswohnung;Tarif A
+maennlich;verheiratet;55;1;Bachelor;verbeamtet;101875;Villa;Tarif B
+weiblich;geschieden;83;0;Bachelor;angestellt;73490;keiner;Tarif C
+maennlich;ledig;9;0;Keine;kein;0;keiner;ablehnen
+weiblich;verheiratet;66;0;Bachelor;im Ruhestand;38800;Eigentumswohnung;Tarif C
+weiblich;verheiratet;51;0;Abitur;arbeitend;25870;Eigentumswohnung;Tarif B
+weiblich;ledig;34;0;Bachelor;angestellt;87990;Einfamilienhaus;Tarif A
+maennlich;ledig;15;0;Keine;kein;0;keiner;ablehnen
+maennlich;ledig;58;0;Hauptschule;arbeitend;30530;Eigentumswohnung;Tarif B
+weiblich;verheiratet;51;0;Lehre;arbeitend;26570;keiner;Tarif C
+maennlich;verheiratet;77;0;Bachelor;im Ruhestand;44000;keiner;Tarif C
+maennlich;verheiratet;42;1;Lehre;arbeitend;25940;keiner;Tarif C
+maennlich;verheiratet;33;2;Bachelor;selbständig;94300;Einfamilienhaus;Tarif B
+maennlich;ledig;28;0;Master;angestellt;82560;keiner;Tarif B
+weiblich;verwitwet;65;1;Master;angestellt;115600;Einfamilienhaus;Tarif B
+weiblich;ledig;14;0;Keine;kein;0;keiner;ablehnen
+maennlich;verheiratet;28;0;Hauptschule;selbständig;72800;Eigentumswohnung;Tarif B
+weiblich;verheiratet;27;3;Keine;angestellt;70790;keiner;Tarif C
+maennlich;ledig;47;0;Bachelor;angestellt;63540;keiner;Tarif B
+maennlich;ledig;71;0;Bachelor;selbständig;46600;keiner;Tarif C
+weiblich;geschieden;66;0;Abitur;im Ruhestand;28600;keiner;Tarif C
+maennlich;verheiratet;33;0;Bachelor;angestellt;52605;keiner;Tarif B
+weiblich;verheiratet;21;1;Master;angestellt;67060;keiner;Tarif B
+weiblich;ledig;13;0;Keine;kein;0;keiner;ablehnen
+weiblich;ledig;43;0;Master;kein;8700;keiner;ablehnen
+weiblich;ledig;14;1;Keine;kein;0;keiner;ablehnen
+weiblich;ledig;18;0;Keine;kein;0;keiner;ablehnen
+weiblich;verheiratet;52;0;Bachelor;selbständig;91700;Einfamilienhaus;Tarif A
+maennlich;ledig;80;0;Bachelor;selbständig;88800;Eigentumswohnung;Tarif B
+maennlich;verheiratet;73;0;Lehre;selbständig;60500;Einfamilienhaus;Tarif B
+maennlich;geschieden;49;4;Bachelor;angestellt;77130;Eigentumswohnung;Tarif C
+maennlich;verheiratet;45;0;Bachelor;angestellt;105450;Einfamilienhaus;Tarif A
+weiblich;geschieden;56;0;Abitur;arbeitend;32540;keiner;Tarif C
+maennlich;ledig;14;0;Keine;kein;0;keiner;ablehnen
+maennlich;verwitwet;46;2;Bachelor;verbeamtet;84830;Einfamilienhaus;Tarif B
+weiblich;verwitwet;53;0;Abitur;arbeitend;25645;keiner;Tarif C
+maennlich;verheiratet;29;1;Bachelor;angestellt;52110;keiner;Tarif B
+weiblich;ledig;21;0;Bachelor;angestellt;83740;keiner;Tarif B
+weiblich;ledig;62;0;Bachelor;angestellt;83170;keiner;Tarif B
+maennlich;geschieden;33;0;Master;angestellt;75905;Eigentumswohnung;Tarif B
+weiblich;ledig;21;0;Bachelor;arbeitend;30195;keiner;Tarif B
+maennlich;verheiratet;56;0;Lehre;arbeitend;30760;keiner;Tarif C
+weiblich;ledig;21;0;Bachelor;selbständig;42100;keiner;Tarif B
+weiblich;geschieden;66;0;Bachelor;im Ruhestand;46700;keiner;Tarif C
+maennlich;verheiratet;62;0;Bachelor;im Ruhestand;22400;keiner;Tarif C
+weiblich;ledig;16;0;Keine;kein;0;keiner;ablehnen
+weiblich;verheiratet;58;0;Lehre;arbeitend;29440;keiner;Tarif C
+weiblich;verwitwet;70;0;Abitur;im Ruhestand;25800;Eigentumswohnung;Tarif C
+weiblich;ledig;25;1;Bachelor;verbeamtet;79350;Einfamilienhaus;Tarif B
+maennlich;ledig;42;0;Hauptschule;selbständig;59000;keiner;Tarif B
+maennlich;geschieden;82;0;Bachelor;selbständig;106600;Villa;Tarif A
+maennlich;ledig;63;0;Bachelor;angestellt;74350;Eigentumswohnung;Tarif B
+maennlich;geschieden;46;0;Lehre;arbeitend;30510;keiner;Tarif C
+weiblich;verheiratet;51;1;Abitur;selbständig;103500;Einfamilienhaus;Tarif A
+weiblich;ledig;67;0;Abitur;selbständig;106800;Einfamilienhaus;Tarif A
+maennlich;verheiratet;66;1;Bachelor;arbeitend;34870;keiner;Tarif C
+maennlich;geschieden;51;0;Bachelor;selbständig;68700;keiner;Tarif B
+weiblich;geschieden;69;0;Lehre;selbständig;74800;Einfamilienhaus;Tarif B
+weiblich;geschieden;49;1;Bachelor;angestellt;107455;Eigentumswohnung;Tarif B
+maennlich;ledig;20;0;Keine;kein;9600;keiner;ablehnen
+maennlich;ledig;5;0;Keine;kein;0;keiner;ablehnen
+maennlich;verheiratet;39;0;Lehre;verbeamtet;38775;keiner;Tarif B
+maennlich;verheiratet;43;1;Bachelor;selbständig;65000;Einfamilienhaus;Tarif B
+weiblich;ledig;62;0;Master;angestellt;137780;Eigentumswohnung;Tarif A
+maennlich;verheiratet;83;0;Bachelor;im Ruhestand;44400;Eigentumswohnung;Tarif C
+weiblich;verheiratet;25;1;Master;verbeamtet;86725;Einfamilienhaus;Tarif B
+maennlich;geschieden;30;2;Bachelor;selbständig;60800;keiner;Tarif B
+maennlich;verheiratet;21;0;Abitur;kein;9200;keiner;ablehnen
+maennlich;geschieden;36;0;Lehre;kein;9200;Einfamilienhaus;ablehnen
+weiblich;geschieden;47;0;Bachelor;verbeamtet;91110;Eigentumswohnung;Tarif B
+maennlich;ledig;25;0;Abitur;kein;9200;keiner;ablehnen
+maennlich;verheiratet;59;0;Master;angestellt;71260;Eigentumswohnung;Tarif B
+weiblich;ledig;24;1;Lehre;kein;8100;keiner;ablehnen
+maennlich;verheiratet;66;1;Bachelor;selbständig;103000;Mehrfamilienhaus;Tarif A
+weiblich;ledig;21;0;Lehre;kein;8700;keiner;ablehnen
+maennlich;verheiratet;57;0;Bachelor;angestellt;119710;Mehrfamilienhaus;Tarif A
+maennlich;ledig;24;0;Lehre;kein;9700;keiner;ablehnen
+maennlich;ledig;23;0;Bachelor;angestellt;68395;Eigentumswohnung;Tarif B
+weiblich;verheiratet;55;0;Bachelor;angestellt;101975;Mehrfamilienhaus;Tarif A
+maennlich;geschieden;55;0;Bachelor;angestellt;83050;Eigentumswohnung;Tarif B
+maennlich;verheiratet;22;1;Lehre;selbständig;73700;keiner;Tarif B
+maennlich;verheiratet;63;0;Lehre;angestellt;63015;keiner;Tarif B
+maennlich;verheiratet;68;0;Master;im Ruhestand;37500;keiner;Tarif C
+weiblich;verheiratet;46;0;Bachelor;angestellt;91310;Eigentumswohnung;Tarif B
+weiblich;verwitwet;41;1;Bachelor;angestellt;112430;Mehrfamilienhaus;Tarif A
+weiblich;verheiratet;58;0;Lehre;arbeitend;33310;Eigentumswohnung;Tarif B
+maennlich;ledig;20;0;Bachelor;selbständig;32800;keiner;Tarif B
+maennlich;verheiratet;48;1;Realschule;kein;9100;keiner;ablehnen
+maennlich;ledig;23;0;Bachelor;kein;8500;keiner;ablehnen
+maennlich;ledig;23;0;Bachelor;angestellt;73670;keiner;Tarif B
+maennlich;ledig;19;0;Hauptschule;kein;9000;keiner;ablehnen
+weiblich;verheiratet;30;0;Promotion;verbeamtet;75300;keiner;Tarif B
+maennlich;verheiratet;38;2;Master;angestellt;85850;keiner;Tarif B
+weiblich;verwitwet;81;0;Bachelor;im Ruhestand;22100;keiner;Tarif C
+maennlich;geschieden;37;6;Bachelor;angestellt;66780;Eigentumswohnung;Tarif C
+maennlich;verheiratet;25;1;Bachelor;angestellt;79150;Eigentumswohnung;Tarif B
+weiblich;ledig;11;0;Keine;kein;0;keiner;ablehnen
+maennlich;verheiratet;29;3;Master;arbeitend;28765;keiner;Tarif C
+weiblich;ledig;43;1;Realschule;arbeitend;27625;keiner;Tarif C
+weiblich;ledig;31;1;Lehre;angestellt;53845;keiner;Tarif B
+weiblich;verheiratet;24;1;Bachelor;selbständig;66900;keiner;Tarif B
+weiblich;ledig;58;0;Lehre;angestellt;73000;Eigentumswohnung;Tarif B
+weiblich;ledig;60;0;Bachelor;angestellt;69000;keiner;Tarif B
+maennlich;verheiratet;37;2;Bachelor;angestellt;40795;Eigentumswohnung;Tarif B
+weiblich;ledig;27;1;Lehre;arbeitend;29865;Einfamilienhaus;Tarif B
+weiblich;ledig;17;0;Keine;kein;0;keiner;ablehnen
+weiblich;verwitwet;49;0;Abitur;arbeitend;30665;keiner;Tarif C
+weiblich;verheiratet;30;1;Bachelor;selbständig;40900;keiner;Tarif B
+weiblich;verheiratet;50;0;Lehre;kein;9400;keiner;ablehnen
+maennlich;ledig;56;0;Bachelor;arbeitend;28800;keiner;Tarif C
+weiblich;verheiratet;29;0;Abitur;kein;8800;keiner;ablehnen
+weiblich;verheiratet;79;1;Bachelor;selbständig;93200;Mehrfamilienhaus;Tarif B
+maennlich;verheiratet;65;0;Bachelor;angestellt;85425;keiner;Tarif B
+maennlich;verheiratet;69;0;Lehre;im Ruhestand;42200;keiner;Tarif C
+weiblich;geschieden;78;0;Lehre;im Ruhestand;31800;keiner;Tarif C
+maennlich;ledig;40;0;Hauptschule;kein;9900;Einfamilienhaus;ablehnen
+maennlich;ledig;36;0;Master;kein;9100;keiner;ablehnen
+maennlich;verheiratet;22;1;Lehre;angestellt;87410;keiner;Tarif B
+weiblich;verheiratet;22;3;Lehre;kein;9800;keiner;ablehnen
+weiblich;verheiratet;67;0;Bachelor;im Ruhestand;31100;keiner;Tarif C
+weiblich;geschieden;71;0;Realschule;im Ruhestand;27000;keiner;Tarif C
+weiblich;geschieden;42;4;Abitur;arbeitend;32190;keiner;Tarif C
+maennlich;verheiratet;55;1;Realschule;kein;9900;keiner;ablehnen
+maennlich;verheiratet;45;4;Lehre;kein;9600;keiner;ablehnen
+maennlich;ledig;17;0;Keine;kein;0;keiner;ablehnen
+weiblich;ledig;48;0;Bachelor;angestellt;86380;Einfamilienhaus;Tarif A
+maennlich;ledig;28;1;Master;angestellt;55440;keiner;Tarif B
+weiblich;verwitwet;54;0;Lehre;selbständig;105000;Einfamilienhaus;Tarif A
+maennlich;verheiratet;79;0;Hauptschule;selbständig;63900;keiner;Tarif C
+maennlich;ledig;20;0;Abitur;kein;9200;keiner;ablehnen
+maennlich;verheiratet;66;0;Master;arbeitend;26090;keiner;Tarif C
+maennlich;verheiratet;27;0;Master;verbeamtet;90185;Eigentumswohnung;Tarif B
+maennlich;ledig;22;0;Lehre;angestellt;63900;Einfamilienhaus;Tarif A
+maennlich;verheiratet;39;2;Lehre;arbeitend;30910;keiner;Tarif C
+maennlich;ledig;35;0;Bachelor;arbeitend;30450;keiner;Tarif B
+maennlich;verheiratet;48;4;Bachelor;angestellt;100320;Mehrfamilienhaus;Tarif B
+maennlich;verheiratet;47;5;Bachelor;verbeamtet;76190;keiner;Tarif B
+maennlich;geschieden;64;0;Lehre;kein;9000;keiner;ablehnen
+weiblich;ledig;69;0;Bachelor;arbeitend;35155;keiner;Tarif C
+maennlich;verheiratet;30;0;Bachelor;angestellt;42800;keiner;Tarif B
+weiblich;verheiratet;34;0;Promotion;verbeamtet;75420;Mehrfamilienhaus;Tarif B
+weiblich;verheiratet;60;1;Bachelor;selbständig;34800;keiner;Tarif C
+maennlich;ledig;10;0;Keine;kein;0;keiner;ablehnen
+weiblich;verheiratet;69;1;Realschule;arbeitend;34555;keiner;Tarif C
+maennlich;geschieden;72;0;Bachelor;selbständig;63700;Einfamilienhaus;Tarif B
+weiblich;verheiratet;25;1;Bachelor;angestellt;81700;Eigentumswohnung;Tarif B
+maennlich;verheiratet;35;0;Lehre;angestellt;77550;keiner;Tarif B
+maennlich;ledig;59;0;Lehre;arbeitend;26630;keiner;Tarif C
+maennlich;verwitwet;41;0;Master;selbständig;107500;Eigentumswohnung;Tarif A
+weiblich;verheiratet;39;2;Lehre;kein;9300;keiner;ablehnen
+maennlich;ledig;52;0;Bachelor;selbständig;70500;keiner;Tarif B
+weiblich;verheiratet;60;1;Hauptschule;arbeitend;34400;Eigentumswohnung;Tarif C
+weiblich;verheiratet;56;1;Lehre;im Ruhestand;48300;keiner;Tarif C
