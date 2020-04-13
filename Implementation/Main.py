@@ -116,6 +116,7 @@ def prob_calculation(data):
             ratio = p_A_given_B[f'{target}_given_{cat}'] / p_A[target]
             if 4/5 < ratio < 5/4:
                 print(f'{target[19:]} - {cat}')
+
 def get_bayesian_network(cpt_calc):
     bayesian_network = BayesNetwork(cpt_calc)
     bayesian_network.add_edges()
@@ -161,7 +162,7 @@ def main():
         print("Please choose one of the following options")
         print("[0]: Show scaterplot of the influence of age and sex to the other variables")
         print("[1]: Show the  scaterplot of the influence of the variables to the tariff")
-        print("[2]: Show True/False Table oth one-hot encoding")
+        print("[2]: Show True/False Table with one-hot encoding")
         print("[3]: Show calculation of P(A|B)")
         print("[4]: Show the calculated CPTs")
         print("[5]: Run the tests against the calculated CPTs")
